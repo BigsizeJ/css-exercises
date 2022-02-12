@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(223, 145, 145);
+    font-family: "Verdana", sans-serif;
+}
+
+.oddly-cool{
+    font-size: 24px;
+}
+
+#first-id{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#second-id{
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
